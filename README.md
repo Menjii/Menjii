@@ -6,11 +6,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bartoszit8@gmail.com)
 
 ### Mainly focused on: </br>
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity)
+
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring)
+![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ### Technologies on which I worked:
-![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-35495e?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js)
@@ -28,6 +28,7 @@
 ![Github](http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=green)
 ![Trello](http://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello) </br>
 
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe) </br>
 
 ### My hobbies:
