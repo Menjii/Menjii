@@ -9,6 +9,7 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Nest](https://img.shields.io/badge/-Nest-E0234E?style=for-the-badge&logo=nestjs)
 
 ### Technologies on which I worked:
 ![Vue](https://img.shields.io/badge/-Vue-35495e?style=for-the-badge&logo=vue.js)
@@ -29,7 +30,8 @@
 ![Trello](http://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello) </br>
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe) </br>
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe)
+![Prisma](https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma) </br>
 
 ### My hobbies:
 
